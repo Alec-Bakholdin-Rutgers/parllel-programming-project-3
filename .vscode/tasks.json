@@ -1,0 +1,10 @@
+{
+    "tasks": [
+        {
+            "label": "make",
+            "type": "process",
+            "command": "make"
+        }
+    ],
+    "version": "2.0.0"
+}
